@@ -63,7 +63,7 @@ This app demonstrates the usage the Flutter Web to build and admin panel.
 
 <div align="center">
   <a href="https://github.com/mertcandev/flutter_web_admin_panel_1">
-    <img src="assets/ss.png" alt="Screenshot" width="324" height="576">
+    <img src="assets/ss.png" alt="Screenshot" width="576" height="324">
     
   </a>
   </div>
