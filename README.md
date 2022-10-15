@@ -93,7 +93,7 @@ Don't forget to give the project a star! Thanks again!
 
 Mert Can YILMAZ - [@mertcandev](https://twitter.com/mertcandev)
 
-Project Link: [Neumorphic Music Player UI](https://github.com/mertcandev/flutter_web_admin_panel_1)
+Project Link: [Flutter Web Admin Panel Example](https://github.com/mertcandev/flutter_web_admin_panel_1)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
